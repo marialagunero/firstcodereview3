@@ -12,7 +12,7 @@ _This page is my first code review for the Ruby/React class. This is the beginni
 
 ## Program Setup Instructions
 
-* _Open im Browser_
+* _Open in Browser_
 
 ## Known Bugs
 
@@ -22,7 +22,7 @@ _No known bugs at this time._
 
 _Feel free to contribute if needed. If any other concerns arise contact Maria Lagunero._
 
-##Technologies Used
+## Technologies Used
 
 _HTML, Boostrap, CSS, README.md_
 
