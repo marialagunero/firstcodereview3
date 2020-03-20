@@ -10,6 +10,7 @@ h1 {
 
 img {
   height: 250px;
+  border-radius: 10%;
   width: auto;
   display: block;
 }

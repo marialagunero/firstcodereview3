@@ -20,7 +20,7 @@ _No known bugs at this time._
 
 ## Support and Contact Details
 
-_Feel free to contribute if needed. If any other concerns arise contact Maria Lagunero._
+_Feel free to contribute if needed. If any other concerns arise contact Maria Lagunero at (888) 888-8888._
 
 ## Technologies Used
 
@@ -28,6 +28,6 @@ _HTML, Boostrap, CSS, README.md_
 
 ### License
 
-*MIT*
+**MIT**
 
 #### Copyright 2020 _*Maria Lagunero, Epidocus*_
