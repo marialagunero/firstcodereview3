@@ -7,9 +7,17 @@ body {
 h1 {
   text-align: left;
 }
+
 img {
   height: 250px;
   width: auto;
   display: block;
+}
 
+.hi {
+  color: #b2a8bf;
+}
+
+.link {
+  color: #bf973f;
 }
