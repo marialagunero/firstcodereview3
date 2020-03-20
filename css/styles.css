@@ -4,6 +4,9 @@ body {
   background-color: #42e0f5;
 }
 
+h1 {
+  text-align: left;
+}
 img {
   height: 250px;
   width: auto;
