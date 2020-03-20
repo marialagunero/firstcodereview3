@@ -3,3 +3,10 @@ body {
   text-align: justify;
   background-color: #42e0f5;
 }
+
+img {
+  height: 250px;
+  width: auto;
+  display: block;
+
+}
