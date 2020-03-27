@@ -2,13 +2,13 @@
 
 ### _First Code Review: Portfolio_
 
-[My Portfolio] (https://marialagunero.github.io/firstcodereview3/)
+[My Portfolio](https://marialagunero.github.io/firstcodereview3/)
 
 ### _**By Maria Lagunero**_
 
 ### Decription
 
-_This page is my first code review for the Ruby/React class. This is the beginning of my work portfolio. It includes information about me and projects that can be seen on GitHub._ [Maria Lagunero] (https://github.com/marialagunero)
+_This page is my first code review for the Ruby/React class. This is the beginning of my work portfolio. It includes information about me and projects that can be seen on GitHub._ [Maria Lagunero](https://github.com/marialagunero)
 
 ## Program Setup Instructions
 
